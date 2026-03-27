@@ -1,5 +1,6 @@
 🚗 Car Color Detection & 👥 People Counter
 
+---
 📌 Overview
 This project detects:
 - 🚘 Car colors
@@ -34,7 +35,7 @@ using Computer Vision + YOLO.
 ---
 
 🌐 Live Demo
-👉 [https://huggingface.co/spaces/ANIKET44/Car-People-Detector2]
+👉 [https://huggingface.co/spaces/ANIKET44/AA]
 
 ---
 
