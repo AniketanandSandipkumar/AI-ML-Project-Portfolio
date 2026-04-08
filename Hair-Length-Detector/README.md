@@ -13,4 +13,4 @@ Detects whether a person has **short or long hair** using image input.
 ---
 
 ## 🌐 Live Demo
-👉 [https://huggingface.co/spaces/ANIKET44/Car-People-Detector2]
+👉 [https://hair-length-detection-9yrhdchvthfdinupst7mxs.streamlit.app]
