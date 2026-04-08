@@ -6,7 +6,7 @@ This project demonstrates gesture classification logic using basic image process
 ---
 
 ## 🚀 Live Demo
-🔗 [Click here to try the app](YOUR_DEPLOYED_LINK)
+🔗 [Click here to try the app](https://sign-language-logic-bmx4hwrn4unijxk7zdfzsf.streamlit.app)
 
 ---
 
@@ -80,8 +80,6 @@ Beginner-friendly computer vision project
 Academic mini-project / internship submission  
 
 ---
-
-App Link: https://sign-language-logic-bmx4hwrn4unijxk7zdfzsf.streamlit.app    
 
 👨‍💻 Author  
 
